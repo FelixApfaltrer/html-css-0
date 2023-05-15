@@ -1,0 +1,33 @@
+body{
+    background-color: lavender;
+    font-family:  'Lucida Sans Unicode';
+}
+h1{
+    font-family:  'Lucida Sans Unicode';
+   
+    font-size: 40px;
+    padding: 10px;
+    border: 10px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 50%;
+    inline-size: 600px;
+    text-align: center;
+    margin: auto;
+
+}
+hr{
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+}
+button{
+    font-family:  'Lucida Sans Unicode';
+    border-radius: 5px;
+}
+#ace{
+    width: 55%;
+}
+#rocky{
+    width: 50%;
+}
