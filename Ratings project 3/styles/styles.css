@@ -26,8 +26,22 @@ button{
     border-radius: 5px;
 }
 #ace{
-    width: 55%;
+    width: 35%;
 }
 #rocky{
-    width: 50%;
+    width: 30%;
 }
+#groundhogs{
+    width: 30%
+}
+#movie1{
+    font-family:  'Lucida Sans Unicode';
+}
+#movie2{
+    font-family:  'Arial';
+}
+#movie3{
+    font-family: 'Times New Roman';
+}
+#movie4{
+    font-family: 'Impact';
