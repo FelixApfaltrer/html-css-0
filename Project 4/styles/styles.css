@@ -1,3 +1,11 @@
-#bold{
+#head{
     font-weight: bold;
+}
+#mamo{
+    float: left;
+    display: inline;
+}
+#mamo-text{
+    text-align:right
+    
 }
